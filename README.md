@@ -205,7 +205,7 @@ npm update
 
 ### Environment Variables
 
-Tạo file `.env.local` trong thư mục root:
+Tạo file `.env` trong thư mục root:
 
 ```env
 # API Configuration
